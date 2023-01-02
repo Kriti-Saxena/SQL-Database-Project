@@ -2,7 +2,7 @@
 
 ###### Problem: To design a database for a pop-up that connects students to nearby food joints and pop-up stores 
 
-Designed a SQL database from scratch. Defined business rules, and cardinality to design an Enhanced Entity-Relationship (EER) diagram.The EER diagram was then normalized to design a logical design and then create a database using MYSQL. 
+Collaborated with fellow colleagues to designed a SQL database from scratch. Defined business rules, and cardinality to design an Enhanced Entity-Relationship (EER) diagram.The EER diagram was then normalized to design a logical design and then create a database using MYSQL. 
 
 ### Steps Taken 
 
