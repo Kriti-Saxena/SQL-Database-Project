@@ -4,8 +4,11 @@
 
 Collaborated with fellow colleagues to designed a SQL database from scratch. Defined business rules, and cardinality to design an Enhanced Entity-Relationship (EER) diagram.The EER diagram was then normalized to design a logical design and then create a database using MYSQL. 
 
-### Steps Taken 
+### Tools
+1. MYSQL 
+2. Microsoft Excel 
 
+### Steps Taken 
 1. Establish business rules 
 2. Build EER and logical design 
 3. Create and populate database using MYSQL
@@ -15,3 +18,8 @@ Collaborated with fellow colleagues to designed a SQL database from scratch. Def
 1. Database Management
 2. SQL Querying 
 3. Database Programming 
+
+### What I learned 
+1. The backend working of a database
+2. Establishment of metrics and cardinality to form EER diagram 
+
